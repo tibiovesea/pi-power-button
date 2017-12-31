@@ -7,5 +7,5 @@ Scripts used in the [Pi power button guide](https://howchoo.com/g/mwnlytk3zmm/ho
 [password: raspberry]
 > git clone [repo_link]
 > cd pi-power-button
-> ./install.sh
+> sudo bash ./install.sh
 ```
